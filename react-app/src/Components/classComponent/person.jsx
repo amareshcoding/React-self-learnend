@@ -12,7 +12,3 @@ class Person extends Component{
 }
 export default Person;
 
-let arr = [4,5,2];
-arr = arr.sort(function(a,b){
-     return a-b;
-});

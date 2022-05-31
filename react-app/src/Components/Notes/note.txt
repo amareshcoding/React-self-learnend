@@ -9,6 +9,19 @@ STATE
 --> this.state for class based components
 --> useState(); for functional components
 
+REDUX
+-->A state managment libreary
+--> Central Store-> store all data
+-->Action 
+-->Reducer
+
+
+CONDITIONAL RENDERING
+
+
+
+
+
 
 
 

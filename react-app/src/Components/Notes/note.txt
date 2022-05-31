@@ -1,0 +1,15 @@
+PROPS
+--> sending data as an argument from parent components to child components
+--> parent have the power to edit the data but child cant do any modification
+--> 
+
+
+STATE
+-->in-build object of React components
+--> this.state for class based components
+--> useState(); for functional components
+
+
+
+
+

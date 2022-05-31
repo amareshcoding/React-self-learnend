@@ -1,0 +1,9 @@
+
+
+/* Module style for a single components  */
+.countBtn{
+     padding: 1%;
+     border: 2px solid salmon;
+     border-radius: 5px;
+     background-color: salmon;
+}
